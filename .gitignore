@@ -1,0 +1,7 @@
+bin/
+obj/
+App/bin/
+App/obj/
+AppLogger/obj/
+AppLogger/bin/
+App/App.sln
